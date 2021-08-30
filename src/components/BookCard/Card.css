@@ -1,0 +1,13 @@
+.contain {
+  margin: 2%;
+  padding: 2%;
+  width: 150px;
+  height: 150px;
+  background-color: rgb(43, 148, 197);
+  border: 2px solid rgb(2, 88, 128);
+  border-radius: 10px;
+}
+.header {
+  display: flex;
+  /* justify-content: end; */
+}
